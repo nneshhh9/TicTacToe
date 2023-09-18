@@ -1,0 +1,10 @@
+D:\Projects\Крестики-Нолики\bin\Debug\Крестики-Нолики.exe.config
+D:\Projects\Крестики-Нолики\bin\Debug\Крестики-Нолики.exe
+D:\Projects\Крестики-Нолики\bin\Debug\Крестики-Нолики.pdb
+D:\Projects\Крестики-Нолики\obj\Debug\Крестики_Нолики.GameForm.resources
+D:\Projects\Крестики-Нолики\obj\Debug\Крестики_Нолики.Properties.Resources.resources
+D:\Projects\Крестики-Нолики\obj\Debug\Крестики-Нолики.csproj.GenerateResource.cache
+D:\Projects\Крестики-Нолики\obj\Debug\Крестики-Нолики.csproj.CoreCompileInputs.cache
+D:\Projects\Крестики-Нолики\obj\Debug\Крестики-Нолики.exe
+D:\Projects\Крестики-Нолики\obj\Debug\Крестики-Нолики.pdb
+D:\Projects\Крестики-Нолики\obj\Debug\Крестики-Нолики.csproj.AssemblyReference.cache
